@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Lanyon
 tagline:          'A Jekyll theme'
 
-baseurl:          https://janmelin.github.io/Blog/
+baseurl:          /Blog
 
 paginate:         8
 
