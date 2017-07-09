@@ -8,6 +8,7 @@ permalink:        pretty
 title:            Lanyon
 tagline:          'A Jekyll theme'
 
+source:           /Blog
 baseurl:          /Blog
 
 paginate:         8
