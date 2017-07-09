@@ -10,5 +10,4 @@ paginate:         8
 
 version:          1.0.0
 
-github:
-  repo:             https://github.com/Janmelin/Blog
+githubrepo:             https://github.com/Janmelin/Blog
