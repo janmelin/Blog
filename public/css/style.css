@@ -20,7 +20,7 @@ html {
 @media (min-width:38em) {
     html {
     font-size: 20px;
-}
+} 
 }
 body {
     color: #515151;
@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6 {
 /* 首页cover */
 .cover{
     position: relative;
-    max-width: 400px;
+    max-width: 400px; 
     margin: 0 auto;
 }
 
@@ -935,7 +935,7 @@ a.pagination-step, span.pagination-step {
     width: 36px;
     color: #555;
     cursor: pointer
-}
+}     
 .per:before {
     content: attr(data-percent)
 }
@@ -1147,12 +1147,12 @@ header.xmas.halt div.upload:after {
     -o-margin-after: 0em;
     -o-margin-start: 0px;
     -o-margin-end: 0px;
-    -o-padding-start: 0px;
+    -o-padding-start: 0px; 
     -ms-margin-before: 0em;
     -ms-margin-after: 0em;
     -ms-margin-start: 0px;
     -ms-margin-end: 0px;
-    -ms-padding-start: 0px;
+    -ms-padding-start: 0px; 
 }
 #color-bars li {
     float: left;
@@ -1352,3 +1352,21 @@ button::-moz-focus-inner {
     -ms-transform: translateX(50%);
     transform: translateX(50%)
 }
+
+
+
+/*DUOSHUO UA START*/
+.this_ua {background-color: #ccc!important;border-radius: 4px;padding: 0 5px!important;margin: 0 1px!important;border: 0px solid #BBB!important;color: #fff;}
+.this_ua.platform.Windows{background-color: #39b3d7!important;border-color: #46b8da!important;}
+.this_ua.platform.Linux {background-color: #5cb85c!important;border-color: #1F1F1F!important;}
+.this_ua.platform.Android {background-color: #00C47D!important;border-color: #01B171!important;}
+.this_ua.browser.Chrome{background-color: #5cb85c!important;border-color: #4cae4c!important;}
+.this_ua.browser.Firefox{background-color: #f0ad4e!important;border-color: #eea236!important;}
+.this_ua.browser.IE{background-color: #428bca!important;border-color: #357ebd!important;}
+.this_ua.browser.Opera{background-color: #00C47D!important;border-color: #d43f3a!important;}
+/*DUOSHUO UA END*/
+.this_ua.platform.Ubuntu{background-color: #5cb85c!important;border-color: #1F1F1F!important;}
+.this_ua.platform.Fedora{background-color: #5cb85c!important;border-color: #1F1F1F!important;}
+.this_ua.browser.Maxthon{background-color: #5cb85c!important;border-color: #eea236!important;}
+.this_ua.browser.Yandex{background-color: #39b3d7!important;border-color: #eea236!important;}
+
