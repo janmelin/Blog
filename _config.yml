@@ -1,14 +1,11 @@
-# Dependencies
-pygments:         true
-
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
+title:            Words from NOBODY
+description:      'Nothing.'
+url:
 
-source:           /Blog
+
 baseurl:          /Blog
 
 paginate:         8
@@ -16,4 +13,4 @@ paginate:         8
 version:          1.0.0
 
 github:
-  repo:           https://github.com/janmelin/Blog
+repo:             https://github.com/Janmelin/Blog
