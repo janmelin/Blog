@@ -1,5 +1,8 @@
-NameError: name 'PROTOCOL_SSLv3' is not defined
 ---
+layout: post
+title: NameError: name 'PROTOCOL_SSLv3' is not defined
+---
+
 
 今天把Mac升级到10.14系统后，某python程序立即报错。这是一个别人多年前的项目。程序早已不再更新，但十分好用，于是延用至今。
 
