@@ -4,7 +4,7 @@ permalink:        pretty
 title:            Joe Tang's Blog
 description:      'Murmur from Joe.'
 
-baseurl:          /blog
+baseurl:          /Blog
 
 paginate:         8
 
