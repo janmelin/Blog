@@ -188,7 +188,11 @@ blockquote p:last-child {
 img {
   display: block;
   margin: 0 0 1rem;
-  border-radius: 5px;
+  border-radius: 5px;img
+}
+img.resize {
+    width: auto; /* you can use % */
+    height: auto;
 }
 
 /* Tables */
