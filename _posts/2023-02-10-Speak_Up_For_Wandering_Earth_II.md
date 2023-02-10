@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 《流浪地球2》观后碎碎念
+tags: Movies
+typora-root-url: ../../blog
 ---
 
 上周在中国电影博物馆（影博）二刷了球2。
@@ -67,11 +69,11 @@ title: 《流浪地球2》观后碎碎念
 
      550系列的标志也包含（两个）无穷符号。
 
-     ![550W_Logo](../public/figs/550W_Logo.png)
+     ![550W_Logo](/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/550W_Logo.png)
 
      IDL的标志（下图左）上下颠倒后是MOSS的轮廓[8]。
 
-     ![IDL_Logo-flip](../public/figs/IDL_Logo-flip.jpg)
+     ![IDL_Logo-flip](/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/IDL_Logo-flip.jpg)
 
    + 马在解释当初的研究组解散时特意强调了“数字计划不是终止了，是被法律禁止了。
 
@@ -118,7 +120,7 @@ title: 《流浪地球2》观后碎碎念
 
 7. 根据半机械疫医对预告片的逐帧分析，“方舟计划”、“逐月计划”和“移山计划”是三个互为备选的计划[7] [9]，所以老疫医将“逐月计划”解释为“流浪月球”计划，虽然将月球作为家园听起来就不靠谱，但我也认了。结果正片里的“逐月计划”就是“移山计划”（后更名为流浪地球）的下属子计划，字面意义上的放逐月球。
 
-   ![Screen Shot 2023-02-10 at 16.09.33](../public/figs/Screen Shot 2023-02-10 at 16.09.33.png)
+   ![Screen Shot 2023-02-10 at 16.09.33](/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/Screen Shot 2023-02-10 at 16.09.33.png)
 
    设定，你把书吃了。
 
