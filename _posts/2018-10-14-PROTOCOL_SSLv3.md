@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NameError: name \'PROTOCOL_SSLv3\' is not defined
+title: name PROTOCOL_SSLv3 is not defined
 ---
 
 
