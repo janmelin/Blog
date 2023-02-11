@@ -22,12 +22,12 @@
 @font-face {
     font-family: "LXGW";
     src: url("/public/lxgw-wenkai/LXGWWenKai-Regular.ttf");
-    font-display: fallback;
+    font-display: swap;
 }
 @font-face {
     font-family: "LXGW-mono";
     src: url("/public/lxgw-wenkai/LXGWWenKaiMono-Regular.ttf");
-    font-display: fallback;
+    font-display: swap;
 }
 
 html,
