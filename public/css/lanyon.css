@@ -19,13 +19,24 @@
  */
 
 /* Prevent scroll on narrow devices */
+@font-face {
+    font-family: "LXGW";
+    src: url("/public/lxgw-wenkai/LXGWWenKai-Regular.ttf");
+    font-display: fallback;
+}
+@font-face {
+    font-family: "LXGW-mono";
+    src: url("/public/lxgw-wenkai/LXGWWenKaiMono-Regular.ttf");
+    font-display: fallback;
+}
+
 html,
 body {
   overflow-x: hidden;
 }
 
 html {
-  font-family: "PT Serif", Helvetica, serif;
+  font-family: LXGW, "PT Serif", Helvetica, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
