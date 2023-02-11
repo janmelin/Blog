@@ -128,7 +128,7 @@ typora-root-url: ../../
 
    ![23b](/blog/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/23b.jpg)
 
-   ![Screen Shot 2023-02-10 at 16.09.33](/blog/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/Screen Shot 2023-02-10 at 16.09.33.png)
+   ![Screen Shot 2023-02-10 at 16.09.33](/blog/images/2023-02-10-Speak_Up_For_Wandering_Earth_II/movingmountain.png)
 
    设定，你把书吃了。
 
