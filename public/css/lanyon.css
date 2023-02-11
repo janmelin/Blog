@@ -19,16 +19,18 @@
  */
 
 /* Prevent scroll on narrow devices */
-@font-face {
+/*@font-face {
     font-family: "LXGW";
-    src: url("/blog/public/lxgw-wenkai/LXGWWenKai-Regular.ttf");
+    font-style: normal;
+    src: url("/blog/public/lxgw-wenkai/LXGWWenKai-Regular.ttf") format('truetype');
+
     font-display: swap;
 }
 @font-face {
     font-family: "LXGW-mono";
     src: url("/blog/public/lxgw-wenkai/LXGWWenKaiMono-Regular.ttf");
     font-display: swap;
-}
+}*/
 
 html,
 body {
@@ -36,7 +38,7 @@ body {
 }
 
 html {
-  font-family: LXGW, "PT Serif", Helvetica, serif;
+  font-family: "PT Serif", Helvetica, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
