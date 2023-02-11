@@ -20,6 +20,17 @@
  * Update the foundational and global aspects of the page.
  */
 
+@font-face {
+    font-family: "LXGW";
+    src: url("/public/lxgw-wenkai/LXGWWenKai-Regular.ttf");
+    font-display: fallback;
+}
+@font-face {
+    font-family: "LXGW-mono";
+    src: url("/public/lxgw-wenkai/LXGWWenKaiMono-Regular.ttf");
+    font-display: fallback;
+}
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -33,7 +44,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "LXGW", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -132,7 +143,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "LXGW-mono", Menlo, Monaco, "Courier New", monospace;
 }
 code {
   padding: .25em .5em;
