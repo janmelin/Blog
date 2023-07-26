@@ -32,13 +32,14 @@
     font-display: swap;
 }*/
 
+
 html,
 body {
   overflow-x: hidden;
 }
 
 html {
-  font-family: "PT Serif", Helvetica, serif;
+  font-family: "LXGW WenKai Screen", "PT Serif", Helvetica, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
